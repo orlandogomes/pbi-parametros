@@ -1,5 +1,3 @@
---[Parte III]- Usando Parâmetros no Power BI - Parte III – Integrando com variaveis no SQL Server
-
 --Alterando o T-SQL da Fonte de Dados
 
 use AdventureWorksDW2012

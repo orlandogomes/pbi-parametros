@@ -1,5 +1,3 @@
---[Parte III]- Usando Parâmetros no Power BI - Parte III – Integrando com variaveis no SQL Server
-
 --Contagem de Produtos 
 
 use AdventureWorksDW2012                                          
