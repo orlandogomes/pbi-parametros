@@ -1,0 +1,1 @@
+select distinct color from DimProduct
